@@ -1,4 +1,4 @@
-# Effect of Water System Ownership on EPA Violations
+# Water System Ownership & EPA Violations
 
 This repository contains files related to a graduate capstone project that was completed in June 2024. We studied the effect of water system ownership on EPA regulatory violations in California, using a multilevel generalized linear mixed-effects modeling approach for an explanatory analysis and a mixed-effects gradient boosting tree (ME-GBT) model for a predictive / feature importance analysis. The results of the study suggested that private ownership was associated with a higher incidence of regulatory violations, compared to public ownership. However, ownership type was not an important feature, relative to others, for predicting regulatory violations. The implications of these findings are discussed further in the paper.
 
