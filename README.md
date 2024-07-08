@@ -6,6 +6,7 @@ After completing and submitting the research, additional analyses were later exp
 
 ## Notebooks
 - [Multilevel Generalized Linear Mixed Model Analysis](water_quality_multilevel_glmm.ipynb)
+- [Bayesian Generalized Linear Mixed Model Analysis](water_quality_bayesian_glmm.ipynb)
 - [Feature Importance Analysis](water_quality_feature_importance.ipynb)
 - [Feature Importance Analysis (Time-Series Cross-Validation)](water_quality_feature_importance_ts.ipynb)
 - [Exploratory Data Analysis (Python - Extended Version)](water_quality_EDA.ipynb)
